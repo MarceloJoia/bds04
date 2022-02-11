@@ -6,7 +6,7 @@ Neste sistema, somente as rotas de leitura (GET) de eventos e cidades são públ
 
 
 ## Modelo Orientado a Objeto
-![Modelo](https://github.com/MarceloJoia/bds04/assets/modelo.jpg)
+![Modelo](https://github.com/MarceloJoia/bds04/blob/main/assets/modelo.jpg)
 
 # Desafio para entregar
 - Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
